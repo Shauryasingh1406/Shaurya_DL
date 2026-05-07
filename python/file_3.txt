@@ -1,0 +1,10 @@
+This is a new file created using Python.
+This file is created for demonstration purposes.
+
+This line is appended to the file .
+
+This line is also appended to the file.
+
+This line is appended to the file again  .
+
+This line is also appended to the file again .
